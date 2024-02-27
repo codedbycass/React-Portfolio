@@ -24,7 +24,7 @@ export default function Graphic() {
             </div>
             <div className='border p-6'>
                 <div className='flex justify-between'>
-                    <h2 className='hover:text-green-300 border border-green-300 rounded-t px-2'><a href="https://nllphl.netlify.app/">Food Sovereignty from Land to Ocean</a></h2>
+                    <h2 className='hover:text-green-300 border border-green-300 rounded-t px-2'><a href="https://nllphl.netlify.app/">Neighbor Share</a></h2>
                     <h3>2021</h3>
                 </div>
                 <div className='h-[40rem] overflow-scroll'>
@@ -50,7 +50,7 @@ export default function Graphic() {
             </div>
             <div className='border p-6'>
                 <div className='flex justify-between'>
-                    <h2 className='hover:text-green-300 border border-green-300 rounded-t px-2'><a href="https://www.hc-strike.com/index.html">Haverford College Strike</a></h2>
+                    <h2 className='hover:text-green-300 border border-green-300 rounded-t px-2'><a href="https://www.hc-strike.com/index.html">Haverford Strike</a></h2>
                     <h3>2020</h3>
                 </div>
                 <div className='h-[40rem] overflow-scroll'>

@@ -76,7 +76,7 @@ export default function Web() {
             </div>
             <div className='border p-6'>
                 <div className='flex justify-between'>
-                    <h2 className='hover:text-green-300 border border-green-300 rounded-t px-2'><a href='https://codedbycass.github.io/Programming-Quotes/'>Programmer Quote Generator</a></h2>
+                    <h2 className='hover:text-green-300 border border-green-300 rounded-t px-2'><a href='https://codedbycass.github.io/Programming-Quotes/'>Programmer Quotes</a></h2>
                     <h3>2023</h3>
                 </div>
                 <div className='h-56 overflow-scroll'>
@@ -98,7 +98,7 @@ export default function Web() {
                 <a href='https://web.archive.org/web/20220512011039/https://www.fishadelphia.com/'><img src={fishadelphia} alt="Movies and More" /></a>
                 </div>
                 <p className='text-sm py-2'>Fishadelphia connects seafood harvesters with Philadelphians through a seafood subscription program. I led the website redesign through UX Research and design.</p>
-                <div className='flex space-x-2'>
+                <div className='flex space-x-2 flex-wrap'>
                     <UXTag />
                     <GraphicTag />
                     <ProjectTag />

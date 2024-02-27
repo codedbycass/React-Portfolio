@@ -18,15 +18,16 @@ export default function About() {
                     <div className='text-sm py-2'>
                         <p className='text-base font-normal animate-pulse'>Let's connect</p>
                         <p>
-                            ↝ Mail 
-                            <span className='text-green-500 p-1'>cassandramanotham@gmail.com</span>
+                            Mail 
+                            <span className='text-green-500 p-1'><a href={`mailto:cassandramanotham@gmail.com`}>
+                                cassandramanotham@gmail.com</a></span>
                         </p>
                         <p>
-                            ↝ GitHub 
-                            <span className='text-green-500 p-1'>/codedbycass</span></p>
+                            GitHub 
+                            <span className='text-green-500 p-1'><a href={`https://github.com/codedbycass`}>/codedbycass</a></span></p>
                         <p>
-                            ↝ LinkedIn 
-                        <span className='text-green-500 p-1'>/cassandramanotham</span>
+                            LinkedIn 
+                        <span className='text-green-500 p-1'><a href={`https://www.linkedin.com/in/cassandramanotham/`}>/cassandramanotham</a></span>
                         </p>
                         
                     </div>
